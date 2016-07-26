@@ -1,6 +1,18 @@
 # toolbox
 **A tooling suite for cloud DevOps**
 
+echo as web server - supports templates too
+pg easy db models management for PostgreSQL
+logrus for logging
+fileb0x to embed front-end files
+testify for testing
+httpexpect for http testing
+env for config
+caddy as reverse proxy
+
+
+
+
 go-webserver
 Web server written in compiled Go 
 Updated 
