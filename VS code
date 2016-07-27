@@ -1,0 +1,18 @@
+//Settings for remote sftp push from VS code to min Centos 7
+
+{
+    "remotePath": "/TEST",
+    "host": "10.0.0.11",
+    "username": "root",
+    "password": "a",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}
