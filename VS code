@@ -1,4 +1,4 @@
-//Settings for remote sftp push from VS code to min Centos 7
+//Settings for remote sftp push from VS code to min Centos 7 via ftp-sync
 
 {
     "remotePath": "/TEST",
