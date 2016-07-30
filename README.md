@@ -1,8 +1,8 @@
-# toolbox
+# DevOps Toolbox
 **A tooling suite for cloud DevOps**
 
-echo as web server - supports templates too
-pg easy db models management for PostgreSQL
+Echo  web server
+pq
 logrus for logging
 fileb0x to embed front-end files
 testify for testing
