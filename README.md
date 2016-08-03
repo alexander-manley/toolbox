@@ -285,7 +285,7 @@ Updated 
 bleve
  forked from blevesearch/bleve
 A modern text indexing library for go
-Updated 
+Updated   Under review for CRDB integration
 
 
 chai
