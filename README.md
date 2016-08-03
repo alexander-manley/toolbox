@@ -1,11 +1,12 @@
 # DevOps Toolbox
 **A tooling suite for cloud DevOps**
 
+Stats:
 http://www.fodop.com/ar-1002
 
-Echo  web server
-pq
-logrus for logging
+Echo  - web server
+pq - DB driver
+logrus - logging
 fileb0x to embed front-end files
 testify for testing
 httpexpect for http testing
