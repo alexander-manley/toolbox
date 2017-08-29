@@ -1,8 +1,70 @@
 # DevOps Toolbox
 **A tooling suite for cloud DevOps**
 
-Stats:
-http://www.fodop.com/ar-1002
+Stats/ML:
+    Generalized Machine Learning Libraries: =) enot <3 charsi
+
+        GoML - https://github.com/cdipaolo/goml - On-line Machine Learning in Go that includes libraries for Generalized Linear Models (Linear Regression, Logistic Regression etc), Perceptron, Clustering (K Means, K Nearest Neibhours...) & Text Classification (Multinomial & term frequency...)
+
+        Machine Learning libraries for Go Lang : https://github.com/alonsovidales/go_ml: Implemented Algorithms include Linear Regression, Logistic Regression, Neural Networks, Collaborative Filtering & Gaussian Multivariate Distribution for anomaly detection systems
+
+        MLGo - https://code.google.com/p/mlgo/ - Algorithms implemented include Gaussian mixture model, k-means, k-medians, k-medoids, single-linkage hierarchical clustering
+
+        GoLearn: - GoLearn is a 'batteries included' machine learning library for Go. Simplicity, paired with customisability, is the goal.
+
+    Neural Networks
+
+        Neural Networks written in go : https://github.com/goml/gobrain
+
+        Go Fann - https://github.com/white-pony/go-fann - Go bindings for FANN, library for artificial neural networks
+
+        https://github.com/schuyler/neural-go - Multi-Layer Perceptron Neural Network
+
+        Genetic Algorithms library written in Go / golang - https://github.com/thoj/go-galib
+
+        Word2Vec written in Go : https://github.com/ynqa/word-embedding
+
+    Linear Algebra:
+
+        Linear Algebra for Go & Matrix Library:
+
+        Mat64: Package mat64 provides basic linear algebra operations for float64 matrices. mat64 provides a set of concrete types that implement different classes of matrices (Dense, Symmetric, etc.) and operations on them. In most cases, an operation which results in a matrix value is a method on the value being produced.
+
+        BLAS Implementation for Go: The BLAS (Basic Linear Algebra Subprograms) are routines that provide standard building blocks for performing basic vector and matrix operations
+
+        https://github.com/danieldk/golinear - liblinear bindings for Go 
+
+    Probability Distribution Functions
+
+        http://godoc.org/code.google.com/p/probab
+
+        https://github.com/e-dard/godist 
+
+    Decision Trees:
+
+        Hector https://github.com/xlvector/hector - Golang machine learning lib. Currently, it can be used to solve binary classification problems.Logistic Regression , Factorized Machine , CART, Random Forest, Random Decision Tree, Gradient Boosting Decision Tree & Neural Network
+
+        Decision Trees in Go - https://github.com/ajtulloch/decisiontrees - Gradient Boosting, Random Forests, etc. implemented in Go
+
+        CloudForest - https://github.com/ryanbressler/CloudForest - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go (golang). CloudForest allows for a number of related algorithms for classification, regression, feature selection and structure analysis on heterogeneous numerical / categorical data with missing values. 
+
+    Bayesian Classifiers:
+
+        https://github.com/jbrukh/bayesian - Perform naive Bayesian classification into an arbitrary number of classes on sets of strings.
+
+        https://github.com/eaigner/shield - Bayesian text classifier with flexible tokenizers and storage backends for Go 
+
+    Recommendation Engines in Go ble
+
+        Collaborative Filtering (CF) Algorithms in Go - https://github.com/timkaye11/goRecommend
+
+        Recommendation engine for Go - https://github.com/muesli/regommend 
+
+    Others
+
+        https://github.com/daviddengcn/go-pr - Pattern Recognition in Go.
+
+        SVM Library in Go
 
 Echo  - web server
 pq - DB driver
